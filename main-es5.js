@@ -981,7 +981,7 @@ var SocketService = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = ".im{\r\n    background-image: url(\"/assets/images/pic.jpeg\");\r\nheight:auto;\r\nmin-height: 100%;\r\n}\r\n.ii{\r\n    color: antiquewhite;\r\n    text-align: center\r\n}\r\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvdXNlci9sb2ctaW4vbG9nLWluLmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7SUFDSSxnREFBZ0Q7QUFDcEQsV0FBVztBQUNYLGdCQUFnQjtBQUNoQjtBQUNBO0lBQ0ksbUJBQW1CO0lBQ25CO0FBQ0oiLCJmaWxlIjoic3JjL2FwcC91c2VyL2xvZy1pbi9sb2ctaW4uY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi5pbXtcclxuICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybChcIi9hc3NldHMvaW1hZ2VzL3BpYy5qcGVnXCIpO1xyXG5oZWlnaHQ6YXV0bztcclxubWluLWhlaWdodDogMTAwJTtcclxufVxyXG4uaWl7XHJcbiAgICBjb2xvcjogYW50aXF1ZXdoaXRlO1xyXG4gICAgdGV4dC1hbGlnbjogY2VudGVyXHJcbn0iXX0= */"
+module.exports = ".im{\r\n    background-image: url(\"/assets/pic.jpeg\");\r\nheight:auto;\r\nmin-height: 100%;\r\n}\r\n.ii{\r\n    color: antiquewhite;\r\n    text-align: center\r\n}\r\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvdXNlci9sb2ctaW4vbG9nLWluLmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7SUFDSSx5Q0FBeUM7QUFDN0MsV0FBVztBQUNYLGdCQUFnQjtBQUNoQjtBQUNBO0lBQ0ksbUJBQW1CO0lBQ25CO0FBQ0oiLCJmaWxlIjoic3JjL2FwcC91c2VyL2xvZy1pbi9sb2ctaW4uY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi5pbXtcclxuICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybChcIi9hc3NldHMvcGljLmpwZWdcIik7XHJcbmhlaWdodDphdXRvO1xyXG5taW4taGVpZ2h0OiAxMDAlO1xyXG59XHJcbi5paXtcclxuICAgIGNvbG9yOiBhbnRpcXVld2hpdGU7XHJcbiAgICB0ZXh0LWFsaWduOiBjZW50ZXJcclxufSJdfQ== */"
 
 /***/ }),
 
@@ -1076,7 +1076,7 @@ var LogInComponent = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = ".im{\r\n    background-image: url(\"/assets/images/pic.jpeg\")\r\n}\r\n.ii{\r\n    color: antiquewhite;\r\n    text-align: center\r\n}\r\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvdXNlci9zaWduLXVwL3NpZ24tdXAuY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtJQUNJO0FBQ0o7QUFDQTtJQUNJLG1CQUFtQjtJQUNuQjtBQUNKIiwiZmlsZSI6InNyYy9hcHAvdXNlci9zaWduLXVwL3NpZ24tdXAuY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi5pbXtcclxuICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybChcIi9hc3NldHMvaW1hZ2VzL3BpYy5qcGVnXCIpXHJcbn1cclxuLmlpe1xyXG4gICAgY29sb3I6IGFudGlxdWV3aGl0ZTtcclxuICAgIHRleHQtYWxpZ246IGNlbnRlclxyXG59Il19 */"
+module.exports = ".im{\r\n    background-image: url(\"/assets/pic.jpeg\")\r\n}\r\n.ii{\r\n    color: antiquewhite;\r\n    text-align: center\r\n}\r\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvdXNlci9zaWduLXVwL3NpZ24tdXAuY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtJQUNJO0FBQ0o7QUFDQTtJQUNJLG1CQUFtQjtJQUNuQjtBQUNKIiwiZmlsZSI6InNyYy9hcHAvdXNlci9zaWduLXVwL3NpZ24tdXAuY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi5pbXtcclxuICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybChcIi9hc3NldHMvcGljLmpwZWdcIilcclxufVxyXG4uaWl7XHJcbiAgICBjb2xvcjogYW50aXF1ZXdoaXRlO1xyXG4gICAgdGV4dC1hbGlnbjogY2VudGVyXHJcbn0iXX0= */"
 
 /***/ }),
 
